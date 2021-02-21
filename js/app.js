@@ -18,3 +18,4 @@ const loder = document.getElementById("loader");
 window.addEventListener("load", function(){
     loder.classList.add("fadeout");
 });
+
