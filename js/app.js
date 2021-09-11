@@ -15,7 +15,6 @@ $(document).ready(function(){
 })
 
 const loder = document.getElementById("loader");
-window.scrollBy(0,100)
 window.addEventListener("load", function(){
     loder.classList.add("fadeout");
 });
